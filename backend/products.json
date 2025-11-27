@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone Max 20",
+    "category": "Electronics",
+    "price": 19999,
+    "rating": 4.5,
+    "image": "https://via.placeholder.com/300x300.png?text=Smartphone+Max+20"
+  },
+  {
+    "id": 2,
+    "name": "Smart TV 55-inch",
+    "category": "Electronics",
+    "price": 49999,
+    "rating": 4.2,
+    "image": "https://via.placeholder.com/300x300.png?text=Smart+TV+55"
+  },
+  {
+    "id": 3,
+    "name": "Wireless Earbuds Pro",
+    "category": "Electronics",
+    "price": 2999,
+    "rating": 4.1,
+    "image": "https://via.placeholder.com/300x300.png?text=Earbuds+Pro"
+  },
+  {
+    "id": 4,
+    "name": "Running Shoes XT",
+    "category": "Footwear",
+    "price": 2499,
+    "rating": 4.3,
+    "image": "https://via.placeholder.com/300x300.png?text=Running+Shoes+XT"
+  },
+  {
+    "id": 5,
+    "name": "Leather Jacket Classic",
+    "category": "Apparel",
+    "price": 7999,
+    "rating": 4.6,
+    "image": "https://via.placeholder.com/300x300.png?text=Leather+Jacket"
+  },
+  {
+    "id": 6,
+    "name": "Coffee Maker 500",
+    "category": "Home Appliances",
+    "price": 3499,
+    "rating": 4.0,
+    "image": "https://via.placeholder.com/300x300.png?text=Coffee+Maker+500"
+  },
+  {
+    "id": 7,
+    "name": "Gaming Laptop G5",
+    "category": "Electronics",
+    "price": 75999,
+    "rating": 4.7,
+    "image": "https://via.placeholder.com/300x300.png?text=Gaming+Laptop+G5"
+  },
+  {
+    "id": 8,
+    "name": "Smartphone Lite 11",
+    "category": "Electronics",
+    "price": 9999,
+    "rating": 4.0,
+    "image": "https://via.placeholder.com/300x300.png?text=Smartphone+Lite+11"
+  },
+  {
+    "id": 9,
+    "name": "Blender Pro Mix",
+    "category": "Home Appliances",
+    "price": 2199,
+    "rating": 3.9,
+    "image": "https://via.placeholder.com/300x300.png?text=Blender+Pro+Mix"
+  },
+  {
+    "id": 10,
+    "name": "Office Chair Comfort",
+    "category": "Furniture",
+    "price": 5999,
+    "rating": 4.2,
+    "image": "https://via.placeholder.com/300x300.png?text=Office+Chair"
+  },
+  {
+    "id": 11,
+    "name": "Digital Camera ZoomX",
+    "category": "Electronics",
+    "price": 25999,
+    "rating": 4.1,
+    "image": "https://via.placeholder.com/300x300.png?text=Camera+ZoomX"
+  },
+  {
+    "id": 12,
+    "name": "Smartwatch Series 6",
+    "category": "Electronics",
+    "price": 12999,
+    "rating": 4.0,
+    "image": "https://via.placeholder.com/300x300.png?text=Smartwatch+S6"
+  },
+  {
+    "id": 13,
+    "name": "Vacuum Cleaner Pro",
+    "category": "Home Appliances",
+    "price": 8999,
+    "rating": 4.3,
+    "image": "https://via.placeholder.com/300x300.png?text=Vacuum+Cleaner+Pro"
+  },
+  {
+    "id": 14,
+    "name": "Sneakers UrbanRun",
+    "category": "Footwear",
+    "price": 1999,
+    "rating": 4.0,
+    "image": "https://via.placeholder.com/300x300.png?text=Sneakers+UrbanRun"
+  },
+  {
+    "id": 15,
+    "name": "Action Camera HeroMini",
+    "category": "Electronics",
+    "price": 6999,
+    "rating": 4.4,
+    "image": "https://via.placeholder.com/300x300.png?text=Action+Camera"
+  },
+  {
+    "id": 16,
+    "name": "Kitchen Knife Set",
+    "category": "Home Appliances",
+    "price": 1499,
+    "rating": 4.2,
+    "image": "https://via.placeholder.com/300x300.png?text=Knife+Set"
+  },
+  {
+    "id": 17,
+    "name": "Bluetooth Speaker Bass+",
+    "category": "Electronics",
+    "price": 2499,
+    "rating": 4.1,
+    "image": "https://via.placeholder.com/300x300.png?text=Speaker+Bass+"
+  },
+  {
+    "id": 18,
+    "name": "Formal Shoes LeatherPro",
+    "category": "Footwear",
+    "price": 3499,
+    "rating": 4.0,
+    "image": "https://via.placeholder.com/300x300.png?text=Formal+Shoes"
+  },
+  {
+    "id": 19,
+    "name": "Smartphone Max 20 Case",
+    "category": "Accessories",
+    "price": 499,
+    "rating": 4.3,
+    "image": "https://via.placeholder.com/300x300.png?text=Phone+Case"
+  },
+  
+  {
+    "id": 20,
+    "name": "Wireless Mouse M12",
+    "category": "Electronics",
+    "price": 799,
+    "rating": 4.0,
+    "image": "https://via.placeholder.com/300x300.png?text=Wireless+Mouse+M12"
+  }
+]
