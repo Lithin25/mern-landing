@@ -135,3 +135,19 @@ This MERN application implements all required features per the assignment:
 - React + Vite frontend
 - Full documentation and setup guide
 
+## Screenshots
+
+### Landing Page
+[Landing Page](./screenshots/landing-page.png)
+
+### Search Suggestions
+[Search Suggestions](./screenshots/search-suggestions.png)
+
+### Category Filter Example
+[Category Filter](./screenshots/filter-example.png)
+
+### Products API Output
+[Products API](./screenshots/products-api.png)
+
+### Terminal – MongoDB Connection
+[Mongo Connected](./screenshots/connected-to-mongo.png)
